@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bd9089b-9961-43fb-9624-8716c105d037" name="Changes" comment="Catchup params" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="16" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nirvana-7777&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nirvana-7777/plugin.video.ultimate.git&quot;,
+    &quot;accountId&quot;: &quot;102c010f-5d49-4bbe-920c-58d68bc185f4&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0098204169884517" />
+      <entry key="MS500" value="1.3966669216461065" />
+      <entry key="S2" value="1.800893309285275" />
+      <entry key="S5" value="2.2717268941176862" />
+      <entry key="S10" value="3.349695530253998" />
+      <entry key="S30" value="5.604365821046015" />
+      <entry key="S60" value="6.638429069363791" />
+      <entry key="M2" value="7.271679168259754" />
+      <entry key="M5" value="7.705265848113906" />
+      <entry key="M10" value="8.05795846576191" />
+      <entry key="M15" value="8.504753735736708" />
+      <entry key="M30" value="9.691612522809878" />
+      <entry key="H1" value="10.926514344160466" />
+      <entry key="H2" value="11.829189855684081" />
+      <entry key="H4" value="12.376525990409485" />
+      <entry key="D1" value="12.890363140544103" />
+      <entry key="W1" value="12.984191319926628" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9620583716977714" />
+      <entry key="MS500" value="1.3837240946596174" />
+      <entry key="S2" value="1.7967956921733241" />
+      <entry key="S5" value="2.2694433067223323" />
+      <entry key="S10" value="3.347575646868467" />
+      <entry key="S30" value="5.602765294980902" />
+      <entry key="S60" value="6.637387598736819" />
+      <entry key="M2" value="7.271080025193538" />
+      <entry key="M5" value="7.705004297663499" />
+      <entry key="M10" value="8.057821967278288" />
+      <entry key="M15" value="8.504659471703665" />
+      <entry key="M30" value="9.691561531358673" />
+      <entry key="H1" value="10.926486919352808" />
+      <entry key="H2" value="11.829175446704754" />
+      <entry key="H4" value="12.376518575714545" />
+      <entry key="D1" value="12.890361871952608" />
+      <entry key="W1" value="12.984191137844432" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3DnwGcvvRaUxugRItw88VBXIbCg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bd9089b-9961-43fb-9624-8716c105d037" name="Changes" comment="" />
+      <created>1778931046543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778931046543</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial upload">
+      <option name="closed" value="true" />
+      <created>1778931500443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778931500443</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Channels export &amp; Favorites">
+      <option name="closed" value="true" />
+      <created>1778932076691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778932076691</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Channels export &amp; Favorites">
+      <option name="closed" value="true" />
+      <created>1778935715894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778935715894</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Channels export &amp; Favorites">
+      <option name="closed" value="true" />
+      <created>1778949953389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778949953389</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Improve README">
+      <option name="closed" value="true" />
+      <created>1778951552325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778951552325</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Improve README">
+      <option name="closed" value="true" />
+      <created>1778951658174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778951658174</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix favorites">
+      <option name="closed" value="true" />
+      <created>1778954521474</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778954521474</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix favorites">
+      <option name="closed" value="true" />
+      <created>1778955280452</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1778955280452</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix favorites">
+      <option name="closed" value="true" />
+      <created>1779091399434</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1779091399434</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix export path">
+      <option name="closed" value="true" />
+      <created>1779096515473</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1779096515473</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix export path">
+      <option name="closed" value="true" />
+      <created>1779108976026</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1779108976026</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix export path">
+      <option name="closed" value="true" />
+      <created>1779175689974</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1779175689974</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Introduce Software DRM">
+      <option name="closed" value="true" />
+      <created>1780926635837</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1780926635837</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Catchup export">
+      <option name="closed" value="true" />
+      <created>1780929351811</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1780929351811</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Catchup export">
+      <option name="closed" value="true" />
+      <created>1780930354290</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1780930354290</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Catchup params">
+      <option name="closed" value="true" />
+      <created>1781185410570</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1781185410570</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Catchup params">
+      <option name="closed" value="true" />
+      <created>1781186165755</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1781186165755</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial upload" />
+    <MESSAGE value="Add Channels export &amp; Favorites" />
+    <MESSAGE value="Improve README" />
+    <MESSAGE value="Fix favorites" />
+    <MESSAGE value="Fix export path" />
+    <MESSAGE value="Introduce Software DRM" />
+    <MESSAGE value="Catchup export" />
+    <MESSAGE value="Catchup params" />
+    <option name="LAST_COMMIT_MESSAGE" value="Catchup params" />
+  </component>
+</project>
